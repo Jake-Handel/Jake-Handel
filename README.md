@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I'm Jake Handel
 
-<!--
-**Jake-Handel/Jake-Handel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Year 12 Student** | 💻 **Aspiring Software Engineer** | 🏆 **Competitive Programmer**
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/jake-handel-a13384349)
+[![GitHub](https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Jake-Handel)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a passionate developer currently completing my HSC with a strong focus on Software Engineering. I love turning ideas into reality through code and am particularly interested in web development and problem-solving.
+
+- 🏫 Currently studying at CGS (Canberra Grammar School)
+- 🏆 Competitive Programming Achievements:
+  - 🥉 3rd Place - PeCan+ 2025
+  - 🏅 4th Place - PeCan+ 2024
+  - 🏅 14th Place - BSides 2024
+- 💡 Always learning and exploring new technologies
+
+## 🛠️ Tech Stack
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+
+## 💼 Featured Projects
+
+### 🎓 CGS Opportunities
+A Next.js web application showcasing student opportunities at CGS, built with modern web technologies for optimal performance and maintainability.
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-000000?style=for-the-badge)](https://cgs-opportunities.vercel.app/)
+[![View Code](https://img.shields.io/badge/👨‍💻_View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Jake-Handel/cgs-opportunities)
+
+### 🐨 Campus Koala
+A comprehensive study application featuring a Pomodoro timer, task management, and AI-powered assistance, built with Next.js and Flask.
+
+[![View Code](https://img.shields.io/badge/👨‍💻_View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Jake-Handel/campus-koala)
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jake-Handel&show_icons=true&theme=radical&hide_border=true)
+
+## 📞 Let's Connect
+
+- ✉️ Email: [001jakey001@gmail.com](mailto:001jakey001@gmail.com)
+- 💼 LinkedIn: [Jake Handel](https://www.linkedin.com/in/jake-handel-a13384349)
+
+---
+
+⭐️ From [Jake Handel](https://github.com/Jake-Handel)
