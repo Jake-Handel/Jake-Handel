@@ -38,9 +38,10 @@ A comprehensive study application featuring a Pomodoro timer, task management, a
 
 [![View Code](https://img.shields.io/badge/👨‍💻_View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Jake-Handel/campus-koala)
 
-## 📈 GitHub Stats
+### 🚗 Machine Learning Car Simulator
+A car simulator built with Python and OpenCV, using machine learning to control the car. Through data testing and prediction modals to test different learning modals such as sigmoid, softmax and linear supervised learning models.  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jake-Handel&show_icons=true&theme=radical&hide_border=true)
+[![View Code](https://img.shields.io/badge/👨‍💻_View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Jake-Handel/AI-Car-Sim)
 
 ## 📞 Let's Connect
 
