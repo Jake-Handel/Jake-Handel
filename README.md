@@ -14,7 +14,8 @@ I'm a passionate developer currently completing my HSC with a strong focus on So
 - 🏆 Competitive Programming Achievements:
   - 🥉 3rd Place - PeCan+ 2025
   - 🏅 4th Place - PeCan+ 2024
-  - 🏅 14th Place - BSides 2024
+  - 🎖️ 14th Place - BSides 2024
+  - 🎖️ 7th Place - BSides 2025
 - 💡 Always learning and exploring new technologies
 
 ## 🛠️ Tech Stack
